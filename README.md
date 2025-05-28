@@ -13,9 +13,8 @@ This Power BI-based interactive dashboard provides a comprehensive overview of s
 - Customer discounts and returns
 - Profitability metrics per user
 
-  ## 📁 Files Included
-<a href="">Dataset</a>
-
+  ## 📁 Data Source
+<a href="https://github.com/Raghunath-analytics/Supply-Chain-Sales-Analysis/blob/main/Supply-Chain-Dataset.xlsx">Dataset</a>
 
 ## 📌 Refined Business Questions
 - What is the total number of customer orders processed during the reporting period?
@@ -29,6 +28,9 @@ This Power BI-based interactive dashboard provides a comprehensive overview of s
 - What are the profit margins expressed as a percentage across different categories or sub-categories?
 - What is the total discount value offered during the reporting period?
 - What is the average profit earned per customer?
+
+ ## 📊 Dashboard Preview
+   <a href="https://github.com/Raghunath-analytics/Supply-Chain-Sales-Analysis/blob/main/Dashboard.jpeg">Dashboard</a>
 
 ## 🧰 Tools & Techniques Used
 - **Power BI Desktop**
